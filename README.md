@@ -13,3 +13,6 @@ Este script automatiza una búsqueda en [DuckDuckGo](https://duckduckgo.com), gu
 ```bash
 python duckduckgo_search.py
 ```
+### 🖼 Captura generada
+
+![Resultados DuckDuckGo](duckduckgo_result.png)
